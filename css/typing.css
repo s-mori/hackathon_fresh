@@ -1,0 +1,12 @@
+#nicoscreen{
+  background-color: #000;
+  color: #fff;
+  width: 70%;
+  height: 150px;
+  font-size: 18pt;
+  overflow: auto;
+  text-align: center;
+}
+#nicoscreen .test{
+  color: #7fff00;
+}
